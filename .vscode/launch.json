@@ -1,0 +1,62 @@
+{
+    "configurations": [
+        {
+            "type": "java",
+            "name": "CollectionsExample",
+            "request": "launch",
+            "mainClass": "javaBasic.CollectionsExample",
+            "projectName": "dsa java_291de091"
+        },
+        {
+            "type": "java",
+            "name": "Collections",
+            "request": "launch",
+            "mainClass": "javaBasic.Collections",
+            "projectName": "dsa java_291de091"
+        },
+        {
+            "type": "java",
+            "name": "LinkedHashMapExample",
+            "request": "launch",
+            "mainClass": "javaBasic.LinkedHashMapExample",
+            "projectName": "dsa java_291de091"
+        },
+        {
+            "type": "java",
+            "name": "HashMapExample",
+            "request": "launch",
+            "mainClass": "javaBasic.HashMapExample",
+            "projectName": "dsa java_291de091"
+        },
+        {
+            "type": "java",
+            "name": "LinkedListExample",
+            "request": "launch",
+            "mainClass": "javaBasic.LinkedListExample",
+            "projectName": "dsa java_291de091"
+        },
+        {
+            "type": "java",
+            "name": "ArrayListExample",
+            "request": "launch",
+            "mainClass": "javaBasic.ArrayListExample",
+            "projectName": "dsa java_291de091"
+        },
+        {
+            "type": "java",
+            "name": "program1",
+            "request": "launch",
+            "mainClass": "javaBasic.program1",
+            "projectName": "dsa java_291de091"
+        },
+        {
+            "name": "Attach",
+            "port": 9229,
+            "request": "attach",
+            "skipFiles": [
+                "<node_internals>/**"
+            ],
+            "type": "node"
+        }
+    ]
+}
