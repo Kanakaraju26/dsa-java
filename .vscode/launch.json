@@ -2,6 +2,13 @@
     "configurations": [
         {
             "type": "java",
+            "name": "Alpha_Hill",
+            "request": "launch",
+            "mainClass": "patterns.Alpha_Hill",
+            "projectName": "dsa java_291de091"
+        },
+        {
+            "type": "java",
             "name": "CollectionsExample",
             "request": "launch",
             "mainClass": "javaBasic.CollectionsExample",
