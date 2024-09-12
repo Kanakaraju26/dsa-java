@@ -2,7 +2,7 @@ package javaBasic;
 
 import java.util.HashMap;
 import java.util.Map;
-//HashMap .put .get .containsKey .remove .size .isEmpty Map.Entry<Integer, String> entry : map.entrySet() .getKey .getValue .keySet .values
+//HashMap .put .get .containsKey .remove .size .isEmpty Map.Entry<Integer, String> entry : map.entrySet() .getKey .getValue .keySet .values .getOrDefault
 
 public class HashMapExample {
     public static void main(String[] args) {
