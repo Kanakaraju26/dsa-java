@@ -2,6 +2,13 @@
     "configurations": [
         {
             "type": "java",
+            "name": "SetExample",
+            "request": "launch",
+            "mainClass": "javaBasic.SetExample",
+            "projectName": "dsa-java_adbeab25"
+        },
+        {
+            "type": "java",
             "name": "ArrayMethodsExample",
             "request": "launch",
             "mainClass": "notes.ArrayMethodsExample",
