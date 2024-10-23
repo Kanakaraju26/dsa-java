@@ -13,5 +13,8 @@ public class methods {
         // s.charAt(i)   #charAt
         // Character.isLetterOrDigit(c)    #isLetterOrDigit
         // Character.toLowerCase(c)      #toLowerCase
+        // Arrays.sort(intervals, (a, b) -> a[0] - b[0]); #sort
+        // ans.toArray(new int[ans.size()][]); #convert list to array
+        // ans.add(Arrays.asList(start, end));   #array to list
     }
 }
