@@ -2,6 +2,13 @@
     "configurations": [
         {
             "type": "java",
+            "name": "Binary_search",
+            "request": "launch",
+            "mainClass": "Binary_search",
+            "projectName": "dsa-java_adbeab25"
+        },
+        {
+            "type": "java",
             "name": "SetExample",
             "request": "launch",
             "mainClass": "javaBasic.SetExample",
