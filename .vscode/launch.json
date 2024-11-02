@@ -2,6 +2,13 @@
     "configurations": [
         {
             "type": "java",
+            "name": "Row_with_max_1s",
+            "request": "launch",
+            "mainClass": "binarysearch.bson2d.Row_with_max_1s",
+            "projectName": "dsa-java_adbeab25"
+        },
+        {
+            "type": "java",
             "name": "Binary_search",
             "request": "launch",
             "mainClass": "Binary_search",
