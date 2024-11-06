@@ -1,7 +1,7 @@
 package javaBasic;
 
 import java.util.PriorityQueue;
-//PriorityQueue .add .peek .poll .remove .clear .isEmpty
+//PriorityQueue .add .peek .poll .remove .clear .isEmpty .addAll
 
 public class PriorityQueueExample {
     public static void main(String[] args) {
@@ -45,5 +45,8 @@ public class PriorityQueueExample {
         pq.clear();
         System.out.println("PriorityQueue after clearing: " + pq);
         System.out.println("Is the PriorityQueue empty? " + pq.isEmpty());
+
+        //.addAll
+        //pq.addAll(map.entrySet());
     }
 }
