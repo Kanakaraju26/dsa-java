@@ -1,4 +1,4 @@
-package recursion;
+package recursion.basicProgram;
 
 public class Valid_Palindrome {
     // Helper method to remove non-alphanumeric characters and convert to lowercase

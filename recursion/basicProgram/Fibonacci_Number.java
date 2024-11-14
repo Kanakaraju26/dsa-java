@@ -1,4 +1,4 @@
-package recursion;
+package recursion.basicProgram;
 
 public class Fibonacci_Number {
     static int fib(int n){

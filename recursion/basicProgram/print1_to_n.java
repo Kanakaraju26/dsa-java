@@ -1,4 +1,4 @@
-package recursion;
+package recursion.basicProgram;
 
 public class print1_to_n {
     public static void printNos(int N)

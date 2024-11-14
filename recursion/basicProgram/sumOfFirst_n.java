@@ -1,4 +1,4 @@
-package recursion;
+package recursion.basicProgram;
 
 public class sumOfFirst_n {
     public static long sumOfSeries(long n) {

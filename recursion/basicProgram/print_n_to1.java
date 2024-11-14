@@ -1,6 +1,6 @@
-package recursion;
+package recursion.basicProgram;
 
-public class printn_to_1 {
+public class print_n_to1 {
     static void printNos(int N) {
         if(N==0) return;
         System.out.print(N + " ");
