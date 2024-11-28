@@ -1,13 +1,14 @@
-package slidingWindow.easy;
+package slidingWindow.medium;
+
 import java.util.HashSet;
 
-public class Longest_Substring_Without_Repeating {
+public class longest_substring_without_repeating_characters {
     public int lengthOfLongestSubstring(String s) {
         int maxLength = 0;  // To store the maximum length of a valid substring
 
         // Outer loop to set the start of the substring
         for (int i = 0; i < s.length(); i++) {
-            HashSet<Character> set = new HashSet<>();  // To store unique characters
+           HashSet<Character> set = new HashSet<>();  // To store unique characters
             int currentLength = 0;
 
             // Inner loop to extend the substring
