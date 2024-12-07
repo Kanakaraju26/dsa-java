@@ -1,4 +1,4 @@
-package Greedy.medium;
+package Greedy.easy;
 
 public class valid_parenthesis_string {
     public boolean checkValidString(String s) {
