@@ -1,6 +1,6 @@
 package Greedy.medium;
 
-public class candy {
+public class Caandy {
     public int candy(int[] ratings) {
         int n = ratings.length;
         if (n == 0) return 0; // No children, no candies
