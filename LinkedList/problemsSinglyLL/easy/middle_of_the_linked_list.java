@@ -1,4 +1,4 @@
-package LinkedList.problemsSinglyLL;
+package LinkedList.problemsSinglyLL.easy;
 
 class ListNode {
           int val;

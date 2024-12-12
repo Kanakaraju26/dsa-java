@@ -1,4 +1,4 @@
-package LinkedList.problemsSinglyLL;
+package LinkedList.problemsSinglyLL.easy;
 
 import java.util.ArrayList;
 import java.util.Collections;

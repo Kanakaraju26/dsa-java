@@ -1,4 +1,4 @@
-package LinkedList.problemsSinglyLL;
+package LinkedList.problemsSinglyLL.easy;
 
 class Node{
     int data;
